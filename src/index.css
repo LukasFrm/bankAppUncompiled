@@ -1,0 +1,33 @@
+body {
+    font-size: 0.75rem;
+}
+
+td {
+    padding: .5rem;
+    vertical-align: top;
+    border: 1px solid #dee2e6;
+    max-width: 120px;    
+    text-overflow: ellipsis !important;
+    word-wrap: break-word;
+
+}
+
+tr{
+    max-height: 50px !important;
+}
+
+#text {
+    color: red
+}
+
+
+.btn{
+    min-width: 60px;
+}
+
+.App {
+    padding: 1rem;
+}
+.close {
+    display: none !important;
+}
